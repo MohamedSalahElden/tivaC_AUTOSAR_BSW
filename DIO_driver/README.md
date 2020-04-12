@@ -16,7 +16,6 @@
 
   - **configuration code** 
     > this includes the source and header files used to configure the DIO module according to the application , these files are auto-generated 
-<div align = "center">
 
 ```mermaid
 graph TD;
@@ -31,7 +30,6 @@ graph TD;
     Dio_types.h-->Dio.h;
     Std_Types.h-->Dio_types.h;
 ```
-</div>
 
 ## Configuration specification
 
