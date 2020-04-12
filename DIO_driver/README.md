@@ -18,7 +18,7 @@
     > this includes the source and header files used to configure the DIO module according to the application , these files are auto-generated 
 <div align = "center">
 
-```me rmaid
+```mermaid
 graph TD;
     Det.h-->Dio.c;
     Dio_cfg.h-->Dio.h;
